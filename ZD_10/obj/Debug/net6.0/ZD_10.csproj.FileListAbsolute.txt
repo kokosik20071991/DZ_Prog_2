@@ -1,0 +1,15 @@
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\bin\Debug\net6.0\ZD_10.exe
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\bin\Debug\net6.0\ZD_10.deps.json
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\bin\Debug\net6.0\ZD_10.runtimeconfig.json
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\bin\Debug\net6.0\ZD_10.dll
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\bin\Debug\net6.0\ZD_10.pdb
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.csproj.AssemblyReference.cache
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.AssemblyInfoInputs.cache
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.AssemblyInfo.cs
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.csproj.CoreCompileInputs.cache
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.dll
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\refint\ZD_10.dll
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.pdb
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ZD_10.genruntimeconfig.cache
+C:\Users\4600-715\Desktop\DZ_Prog_2\ZD_10\obj\Debug\net6.0\ref\ZD_10.dll
